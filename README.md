@@ -8,7 +8,7 @@ Project carried out for the module "Advanced AI Architectures and Automation" (P
 
 ---
 
-![n8n Main Workflow Overview](docs/workflow_principal.png)
+![n8n Main Workflow Overview](docs/workflow_principal1.png)
 
 ---
 
