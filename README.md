@@ -10,6 +10,8 @@ Project carried out for the module "Advanced AI Architectures and Automation" (P
 
 ![n8n Main Workflow Overview](docs/workflow_principal1.png)
 
+> [![See this video](https://img.shields.io/badge/YouTube-Regarder%20la%20d%C3%A9mo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=eGwVtAfbSug)
+
 ---
 
 ## Architecture
